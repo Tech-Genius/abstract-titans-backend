@@ -1,1 +1,1 @@
-gunicorn sendmail.wsgi:app
+web: python manage.py migrate && gunicorn backend_api.wsgi
