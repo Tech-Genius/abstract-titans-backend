@@ -1,1 +1,1 @@
-gunicorn backend_api.wsgi:application
+gunicorn sendmail.wsgi:app

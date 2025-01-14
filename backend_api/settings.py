@@ -26,7 +26,7 @@ SECRET_KEY ='django-insecure-=z0pw(-mj5lpmo4%@1d*wn!2m&#5yx6k)63r*aia!f&*o2)80&'
 DEBUG = True
 
 ALLOWED_HOSTS = ['smatforms-backend.onrender.com', 'localhost', 'http://localhost:5173/']
-CSRF_TRUSTED_ORIGINS = ['https://smatforms-backend.onrender.com', 'http://localhost:5173/', 'https://smatforms.ng']
+CSRF_TRUSTED_ORIGINS = ['https://abstract-titans.onrender.com', 'http://localhost:5173/', 'https://abstracttitans.xyz']
 CSRF_COOKIE_HTTPONLY = True
 CSRF_COOKIE_SECURE = True
 
